@@ -1,0 +1,95 @@
+{
+  "GRE": [
+    {
+      "Question": "How to get average of 10 numbers",
+      "Option1": "Good",
+      "Option2": "Bad",
+      "Option3": "Ca va",
+      "Option4": "Cool"
+    },
+    {
+      "Question": "How to get sum of 10 numbers",
+      "Answer1": "ADD by 2"
+    },
+    {
+      "Question": "How to get 3 of 10 numbers",
+      "Answer": "Other"
+    },
+    {
+      "Question": "How to get 4 of 10 numbers",
+      "Answer": "Other"
+    },
+    {
+      "Question": "How to get 5 of 10 numbers",
+      "Answer": "Other"
+    }
+  ],
+  "IELTS": [
+    {
+      "Question": "How to get average of 10 numbers"
+    },
+    {
+      "Question": "How to get average of 10 numbers"
+    },
+    {
+      "Question": "How to get average of 10 numbers"
+    },
+    {
+      "Question": "How to get average of 10 numbers"
+    },
+    {
+      "Question": "How to get average of 10 numbers"
+    }
+  ],
+  "TOEFL": [
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    }
+  ],
+  "PTE": [
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    }
+  ],
+  "GMAT": [
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    },
+    {
+      "Question": "How to get smallest of numbers"
+    }
+  ]
+}
