@@ -1,27 +1,31 @@
 {
   "GRE": [
     {
-      "Question": "How to get average of 10 numbers",
-      "Option1": "Good",
-      "Option2": "Bad",
-      "Option3": "Ca va",
-      "Option4": "Cool"
+      "Question": "Although it does contain some pioneering ideas, one would hardly characterize the work as ___",
+      "Option1": "orthodox",
+      "Option2": "eccentric",
+      "Option3": "trifling",
+      "Option4": "conventional"
     },
     {
-      "Question": "How to get sum of 10 numbers",
-      "Answer1": "ADD by 2"
+      "Question": "write the formula to get sum of n numbers"
     },
     {
-      "Question": "How to get 3 of 10 numbers",
-      "Answer": "Other"
+      "Question": "The corporation expects only _______ increases in sales next year despite a yearlong effort to revive its retailing business.",
+      "Option1": "predictable",
+      "Option2": "expanding",
+      "Option3": "modest",
+      "Option4": "volatile"
     },
     {
-      "Question": "How to get 4 of 10 numbers",
-      "Answer": "Other"
+      "Question": "How to Calculate tangent of circle"
     },
     {
-      "Question": "How to get 5 of 10 numbers",
-      "Answer": "Other"
+      "Question": "If 6k2 + k = 2 and k > 0, then k must equal which of the following?",
+      "Option1": "0.5",
+      "Option2": "1",
+      "Option3": "2",
+      "Option4": "3"
     }
   ],
   "IELTS": [
